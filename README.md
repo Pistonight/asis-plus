@@ -18,7 +18,7 @@ Then, follow one of the instructions below to setup the environment
 
 ## Build and Flash
 1. Build the project with `make`
-2. You want to flash `build/asis+_main.hax`
+2. You want to flash `build/asis+_main.hex`
 
 If you are using a Teensy like me, you can find the tool and instructions on their [website](https://www.pjrc.com/teensy/loader.html). 
 
